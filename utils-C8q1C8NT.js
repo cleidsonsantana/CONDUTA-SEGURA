@@ -1,0 +1,1 @@
+import{vt as e,yt as t}from"./vendor-utils-ptypd8C4.js";function n(...n){return e(t(n))}export{n as t};

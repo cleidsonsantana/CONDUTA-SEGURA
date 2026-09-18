@@ -1,0 +1,1 @@
+function e(e){return{isUnlocked:e?.is_unlocked_for_session!==!1,requiresSso:!!e?.sso_required,ssoProviderName:e?.sso_provider_name??null}}export{e as t};
